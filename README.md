@@ -20,7 +20,7 @@ Una aplicación moderna y minimalista para gestionar tus tareas diarias. 🚀
 
 ## 🌐 Demo  
 ### Captura de la interfaz  
-![Vista previa de Todo-App](./ruta_a_tu_imagen.png)
+![Vista previa de la aplicación](./assets/preview.png)
 
 > **Nota:** La lista inicial incluye ejemplos como:  
 > - Revisar correos importantes  
